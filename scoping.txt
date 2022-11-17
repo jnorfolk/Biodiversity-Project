@@ -1,0 +1,6 @@
+Investigate if there are any patterns or themes to 
+the types of species that become endangered.
+
+Cleaning data: dropped duplicate species names - only difference 
+	was in common names. Preserved original csv file for all
+	common names.
