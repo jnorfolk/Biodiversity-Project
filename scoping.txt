@@ -1,6 +1,20 @@
-Investigate if there are any patterns or themes to 
-the types of species that become endangered.
+Investigate if there are any patterns or themes to the types of species that become endangered.
 
-Cleaning data: dropped duplicate species names - only difference 
-	was in common names. Preserved original csv file for all
-	common names.
+	Is there a correlation between observations and conservation status?
+
+	What are the endangered rates for each category of species? Proportions, not numbers
+ 
+	How many species that are of concern become threatened? Then endangered? Essentially user churn.
+
+	How many species that 
+
+Add Q
+What is the distribution of conservation status for species?
+Are certain types of species more likely to be endangered?
+Are the differences between species and their conservation status significant?
+Which animal is most prevalent and what is their distribution amongst parks?
+
+
+
+Cleaning data: dropped duplicate species names - only difference was in common names. 
+Original csv file was preserved for all common names.
